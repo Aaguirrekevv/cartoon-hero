@@ -1,0 +1,19 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+h1 {
+font-size: 30px;
+color: #18E8DC; 
+}
+
+.big{
+font-size: 60px;
+}
+
+.kevin{
+font-size: 30px;
+}
+
+.big.kevin{
+color: azure;
+}
